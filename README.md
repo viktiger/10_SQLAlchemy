@@ -10,7 +10,7 @@
 (7) Bonus - Average_Salary_By_Title.png\
 
 ## **Project Description:**
-Hired as a data engineer at Pewlett Hackard and the first major task is to research a project on employees of the corporation from the 1980s and 1990s
+Planning a trip to Honolulu, Hawaii and need some climate analysis on the area
 
 ## **Project Charter:**
 (1) Run/ Display script SQL_Challenge_Engineering_Table_Schema.SQL from repository\

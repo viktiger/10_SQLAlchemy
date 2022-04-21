@@ -1,7 +1,0 @@
-https://github.com/MThorpester/sqlalchemy-challenge/blob/main/climate_analysis.ipynb
-
-https://github.com/c-l-nguyen/sqlalchemy-challenge/blob/master/climate_alchemy.ipynb
-
-https://github.com/alplky/sqlalchemy-challenge/blob/main/app.py
-
-https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=4602edfb0d3dfb499189d7e899d9b4ad75737687&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6e6568612d6e617965656d2f73716c616c6368656d792d6368616c6c656e67652f343630326564666230643364666234393931383964376538393964396234616437353733373638372f636c696d6174652d616e616c797369732e6970796e62&logged_in=false&nwo=neha-nayeem%2Fsqlalchemy-challenge&path=climate-analysis.ipynb&platform=android&repository_id=280516275&repository_type=Repository&version=99

@@ -1,7 +1,7 @@
 # VS_Assignment10_SQLAlchemy
 
 ## **Project Parts:**
-(0) SQLAlchemy.png
+(0) SQLAlchemy.png\
 (1) hawaii.sqlite\
 (2) hawaii_measurements.csv\
 (3) hawaii_measurements_december.csv\

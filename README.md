@@ -1,4 +1,4 @@
-# VS_Assignment10_SQLAlchemy
+# 10_SQLAlchemy
 
 ## **Project Parts:**
 (0) SQLAlchemy.png\
